@@ -1,8 +1,9 @@
 Olá! 👋 Seja bem-vindo ao meu perfil!
 Sou um desenvolvedor em formação, atualmente cursando:
 
-- Técnico em Desenvolvimento de Sistemas (conclusão: dezembro de 2024).
-- Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS) (conclusão: 2027/2).
+- Técnico em Desenvolvimento de Sistemas.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas.
+
 Tenho paixão por aprender e construir soluções que fazem a diferença, sempre buscando aprimorar minhas habilidades e me aprofundar no mundo do desenvolvimento.
 
 💻 Habilidades e Tecnologias
@@ -32,6 +33,6 @@ Continuar aprendendo e contribuindo com projetos que desafiem minhas habilidades
 
 📫 Contato
 E-mail: lucas.goncalvezlima@gmail.com
-LinkedIn: linkedin.com/lucas-gonçalves-56b6572a2
+LinkedIn: https://www.linkedin.com/in/lucas-gon%C3%A7alves-56b6572a2/
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos! 🚀
