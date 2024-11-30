@@ -21,6 +21,7 @@ Ferramentas e IDEs: Visual Studio Code, NetBeans, MySQL Workbench, DB Browser...
 - Organização e estruturação de sistemas full-stack.
 
 🛠️ Projetos Recentes:
+
 SAB (Sistema de Agendamento para Barbearias):
 Backend modular em Node.Js que permite o agendamento e controle de serviços com base na duração e horário de disponibilidade.
 
@@ -28,10 +29,12 @@ CRUD JAVA, Gerenciamento de Alunos e Turmas:
 Sistema desenvolvido com Java e MySQL para controle de alunos, turmas e relações entre eles.
 
 🎯 Objetivos:
+
 Conquistar uma vaga de estágio ou trainee em desenvolvimento de sistemas.
 Continuar aprendendo e contribuindo com projetos que desafiem minhas habilidades.
 
 📫 Contato:
+
 E-mail: lucas.goncalvezlima@gmail.com
 LinkedIn: https://www.linkedin.com/in/lucas-gon%C3%A7alves-56b6572a2/
 
